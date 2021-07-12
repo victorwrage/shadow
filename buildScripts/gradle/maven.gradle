@@ -387,7 +387,7 @@ publishing {
             //认证用户和密码
             credentials {
                 username 'wrage'
-                password '!Victorgod0408'
+                password '********'
             }
         }
     }
